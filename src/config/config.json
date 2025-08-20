@@ -5,6 +5,7 @@
   },
 
   "settings": {
+    "title": "That Virtual Guy"
   },
 
   "metadata": {
@@ -15,8 +16,8 @@
   },
 
   "contactinfo": {
-    "address": "Your Address",
-    "email": "your.email@example.com",
-    "phone": "+1 234 567 8900"
+    "address": "BiH",
+    "email": "thatvirtualguy00@gmail.com",
+    "phone": "+387 (0) 644 55 555 2"
   }
 }

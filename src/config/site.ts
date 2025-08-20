@@ -1,7 +1,7 @@
 // Site configuration
 export const siteConfig = {
   // Site details from config.json:site
-  title: "Bit Doze Astro Blog Theme", // from config.json:site.title
+  title: "That Virtual Guy", // from config.json:site.title
   // description is used from existing site.ts, will be updated by config.json:metadata.meta_description
   // url is removed, Astro.site will be used
 
@@ -9,11 +9,11 @@ export const siteConfig = {
   logo: "/logo.svg",
   logoWidth: "200",
   logoHeight: "30",
-  logoText: "Bit Doze Astro Blog Theme",
+  logoText: "That Virtual Guy",
 
   // SEO metadata from config.json:metadata
-  author: "Your Name", // from config.json:metadata.meta_author
-  description: "A modern, responsive blog theme for Astro with support for tags, categories, and series.", // from config.json:metadata.meta_description
+  author: "Admir Zukic", // from config.json:metadata.meta_author
+  description: "Admir is That Virtual Guy bringing you tips & tricks for your virtual assistant business.", // from config.json:metadata.meta_description
   ogImage: "/images/og-image.png", // from config.json:metadata.meta_image (replaces defaultImage)
 
   // Pagination settings from config.json:settings
@@ -28,5 +28,5 @@ export const siteConfig = {
   },
   
   // Params from config.json:params
-  copyright: "Copyright © 2025", // from config.json:params.copyright
+  copyright: "Since © 2025", // from config.json:params.copyright
 };
