@@ -5,16 +5,16 @@ image: "/src/assets/images/avatar-placeholder.svg"
 draft: false
 
 what_i_do:
-  title: "What We Do"
+  title: "We write about"
   items:
-    - title: "Content Creation"
-      description: "High-quality content tailored to your audience."
+    - title: "Virtual Assistents"
+      description: "Tips and tricks for virtual assistants"
 
-    - title: "Web Development"
-      description: "Modern websites built with cutting-edge technologies."
+    - title: "Debunkz + AI companions"
+      description: "We research websites for VAs and find the best AI tools for your daily work."
 
-    - title: "Digital Marketing"
-      description: "Strategic marketing solutions to grow your online presence."
+    - title: "Web3 tech"
+      description: "Learn how to make earn crypto the easy way."
 ---
 
 Welcome to our company! We are a dedicated team of professionals passionate about delivering exceptional digital solutions to businesses of all sizes. With years of experience in the industry, we've developed a deep understanding of what it takes to succeed in today's fast-paced digital landscape.

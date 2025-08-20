@@ -6,7 +6,7 @@ export const siteConfig = {
   // url is removed, Astro.site will be used
 
   // from config.json:site (logo related)
-  logo: "/logo.svg",
+  logo: "/logo.png",
   logoWidth: "200",
   logoHeight: "30",
   logoText: "That Virtual Guy",
@@ -17,8 +17,8 @@ export const siteConfig = {
   ogImage: "/images/og-image.png", // from config.json:metadata.meta_image (replaces defaultImage)
 
   // Pagination settings from config.json:settings
-  postsPerPage: 11, // from config.json:settings.pagination
-  summaryLength: 100, // from config.json:settings.summary_length
+  postsPerPage: 9, // from config.json:settings.pagination
+  summaryLength: 107, // from config.json:settings.summary_length
   
   // SEO settings (existing in site.ts)
   noindex: {
