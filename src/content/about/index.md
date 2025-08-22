@@ -30,7 +30,7 @@ We have a simple mission: helping as many stay at home parents to provide for th
 
 Although AI is new on the market, we will strive to find the best [AI companions](../tags/aicompanions/) for our readers, making their daily work easier. We strongly believe that AI will not take over our virtual assistant places, but rather be a every day helper.
 
-We strongly believe that [Web3](../tags/web3/) and especially cryptocurrencies have one of the biggest potentials to become a steady stream of income by creating quality content.
+We strongly believe that [Web3](../tags/web3/) and especially cryptocurrencies have one of the biggest potentials to become a steady stream of income by creating quality content and staking crypto currency. 
 
 ## Get In Touch With Us
 
