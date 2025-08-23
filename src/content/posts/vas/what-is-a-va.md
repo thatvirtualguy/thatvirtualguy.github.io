@@ -6,7 +6,7 @@ date: 2023-10-20
 image: "../../../assets/images/astro-basics.svg"
 authors: ["admir"]
 categories: ["Virtual Assistant"]
-tags: ["vas", "wfh", "debunkz", "aicompanions", "web3"]
+tags: ["vas", "wfh"]
 series: ["Astro Get Started", "1"]
 ---
 

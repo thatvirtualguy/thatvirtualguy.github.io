@@ -8,4 +8,4 @@ social:
   instagram: https://www.instagram.com/
 ---
 
-Web developer tuned Virtual Assistant turned blogger. Bringing you tips for your VA business, websites where you can make an extra income and useful tools for your daily work.
+Web developer turned Virtual Assistant turned blogger. Bringing you tips for your VA business, websites where you can make an extra income and useful tools for your daily work.
