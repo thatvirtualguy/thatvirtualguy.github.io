@@ -13,7 +13,7 @@ export const siteConfig = {
 
   // SEO metadata from config.json:metadata
   author: "Admir Zukic", // from config.json:metadata.meta_author
-  description: "Admir is That Virtual Guy bringing you tips & tricks for your virtual assistant business.", // from config.json:metadata.meta_description
+  description: "Admir is That Virtual Guy a virtual assistant talking about artifical inteligence and web3.", // from config.json:metadata.meta_description
   ogImage: "/images/og-image.png", // from config.json:metadata.meta_image (replaces defaultImage)
 
   // Pagination settings from config.json:settings
