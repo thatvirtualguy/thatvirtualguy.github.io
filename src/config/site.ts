@@ -1,7 +1,7 @@
 // Site configuration
 export const siteConfig = {
   // Site details from config.json:site
-  title: "That Virtual Guy", // from config.json:site.title
+  title: "That Virtual Guy - virtual assistant talking about artificial inteligence and web3", // from config.json:site.title
   // description is used from existing site.ts, will be updated by config.json:metadata.meta_description
   // url is removed, Astro.site will be used
 
