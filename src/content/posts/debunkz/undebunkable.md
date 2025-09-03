@@ -3,7 +3,7 @@ title: "Undebunkable"
 meta_title: "Undebunkable"
 description: "The websites we can't test do to limitations."
 date: 2025-08-01
-image: "../../../assets/images/debunkz/intro.png"
+image: "../../../assets/images/d-intro.png"
 authors: ["admir"]
 categories: ["Debunkz"]
 tags: ["debunkz"]
