@@ -3,7 +3,7 @@ title: "Debunkz: Introduction"
 meta_title: "Debunkz: Introduction"
 description: "Why did I create the Debunkz series? What will you learn? Will you be able to distinguish right from wrong? Let's find out."
 date: 2025-08-01
-image: "../../../assets/images/d-intro.PNG"
+image: "../../../assets/images/posts/d-intro.PNG"
 authors: ["admir"]
 categories: ["Debunkz"]
 tags: ["debunkz"]
