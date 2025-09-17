@@ -9,38 +9,17 @@
       "url": "/about/"
     },
     {
+      "name": "Categories",
+      "url": "/categories/"
+    },
+    {
+      "name": "Tags",
+      "url": "/tags/"
+    },
+    {
       "name": "Series",
       "url": "/series/"
     },
-
-    {
-      "name": "Pages",
-      "url": "",
-      "hasChildren": true,
-      "children": [
-        {
-          "name": "Authors",
-          "url": "/authors/"
-        },
-        {
-          "name": "Categories",
-          "url": "/categories/"
-        },
-        {
-          "name": "Tags",
-          "url": "/tags/"
-        },
-        {
-          "name": "About",
-          "url": "/about/"
-        },
-        {
-          "name": "Privacy Policy",
-          "url": "/privacy/"
-        }
-      ]
-    },
-
     {
       "name": "Contact",
       "url": "/contact/"
@@ -48,12 +27,12 @@
   ],
   "footer": [
     {
-      "name": "About",
-      "url": "/about/"
-    },
-    {
       "name": "Contact",
       "url": "/contact/"
+    },
+       {
+      "name": "Disclaimer",
+      "url": "/disclaimer/"
     },
     {
       "name": "Privacy Policy",

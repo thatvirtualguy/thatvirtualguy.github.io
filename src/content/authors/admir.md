@@ -1,6 +1,6 @@
 ---
 title: Admir
-image: "/images/authors/dragos.webp"
+image: "/images/authors/admir.png"
 description: That Virtual Guy bringing you tips & tricks for your virtual assistant business.
 social:
   facebook: https://www.facebook.com/admir.zukic/

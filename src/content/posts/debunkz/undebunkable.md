@@ -1,7 +1,7 @@
 ---
 title: "Undebunkable"
 meta_title: "Undebunkable"
-description: "The websites we can't test do to limitations."
+description: "The websites we can't test due to limitations."
 date: 2025-08-01
 image: "../../../assets/images/posts/d-intro.PNG"
 authors: ["admir"]
