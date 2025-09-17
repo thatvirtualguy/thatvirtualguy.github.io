@@ -14,9 +14,13 @@ tags: ["debunkz"]
 
 ## What are Debunkz?
 
-According to the dictionary, a debunk is exposing a falsness of something and in our case those are websites where you and I earn an income for offering services / doing tasks. While beeing a stay at home husband that works full-time from his home office, my wife and I came across the idea to find her a job as well. As a person with disabilities and wheelchair user almost no worklpaces in Bosnia are accessible and suitable for her.
+According to the dictionary, debunking is exposing the falseness of something, and in our case, those are websites where you and I earn an income by offering services / doing tasks. While being a stay-at-home husband who works full-time from his home office, my wife and I came across the idea to find her a job as well. As a person with disabilities and a wheelchair user, almost no workplaces in Bosnia are accessible and suitable for her.
 
 On our first day of researching, we came across hundreds and hundreds of websites. People promoting financial freedom and earning possibilities claim that you can earn hundreds and thousands of $ /hr /day /mo.
+
+It seems unreal to us and almost like those fake gurus a few years back promoting their pyramid schemes from rented villas with several sports cars parked in front.
+
+I've done my fair share of signups & testing of survey websites, click to earn, etc. and almost none of them worked.
 
 It seems unreal to us and almost like those fake gurus a few years back promoting their piramid schemes from rented vilas with several sport cars parked in front.
 
