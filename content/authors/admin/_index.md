@@ -53,4 +53,4 @@ highlight_name: true
 website: "https://thatvirtualguy.website/"
 ---
 
-Giving tips to virtual assistants, reviewing websites and AI tools and talking about Web3 technologies.
+Passionate web developer, home office agent and a stay at home hubby living in an interabled marriage.
