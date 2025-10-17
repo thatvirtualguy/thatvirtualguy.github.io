@@ -15,7 +15,7 @@ sections:
       # Avatar customization
       avatar:
         size: medium  # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: circle # Options: circle (default), square, rounded
+        shape: rounded # Options: circle (default), square, rounded
   - block: collection
     content:
       filters:
@@ -24,4 +24,9 @@ sections:
     design:
       spacing:
         padding: ['3rem', 0, '6rem', 0]
+  - block: markdown
+    content:
+      title: Want to support us?
+      subtitle: Read, like and support your favourite creators.
+      text: We are mostly active on the [HIVE](https://hiveonboard.com?ref=thatvirtualguy) blockchain. **NOTE:** we earn 3% of your HIVE rewards. You can change that at any time.
 ---

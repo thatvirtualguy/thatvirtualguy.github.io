@@ -1,51 +1,47 @@
 ---
 # Display name
-title: 吳健雄
+title: That Virtual Guy
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Ado
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Admir
+last_name: Zukic
 
 # Pronouns (optional)
-pronouns: she/her
+pronouns: he/him
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🧑‍🦼
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Creator for the interwebs
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: On the blockchain
+    url: https://hiveonboard.com?ref=thatvirtualguy
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Giving tips to virtual assistants, reviewing websites and AI tools and talking about web3 technologies.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:thatvirtualguy00@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://x.com/BuildLore
+    url: https://x.com/ThatVirtualG
   - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-  - icon: academicons/cv
-    url: uploads/resume.pdf
-    label: Download my resume
+    url: https://www.instagram.com/thatvirtualguy
+  - icon: brands/youtube
+    url: https://www.youtube.com/@ThatVirtualG
   - icon: rss
     url: ./post/index.xml
     label: Subscribe to my blog via RSS feed
@@ -54,9 +50,7 @@ profiles:
 highlight_name: true
 
 # Author's website URL
-website: ""
+website: "https://thatvirtualguy.website/"
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Giving tips to virtual assistants, reviewing websites and AI tools and talking about Web3 technologies.
