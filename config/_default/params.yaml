@@ -12,18 +12,18 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
+    local_business_type: 'Blogger'
     org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    description: 'Giving tips to virtual assistants & freelancers, reviewing websites and AI tools and talking about Web3 technologies.'
+    twitter: 'ThatVirtualG'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-YZ2H790WQD'
     baidu_tongji: ''
     plausible: ''
     fathom: ''
     pirsch: ''
   verification:
-    google: ''
+    google: '<meta name="google-site-verification" content="cWAuTpUW-3M23PpXnfvjbu5Htp9czA5FY4l4ErwIX50" />'
     baidu: ''
 
 # Site header

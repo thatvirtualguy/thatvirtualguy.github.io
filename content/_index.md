@@ -26,7 +26,7 @@ sections:
         padding: ['3rem', 0, '6rem', 0]
   - block: markdown
     content:
-      title: Want to support us?
+      title: Want to support me?
       subtitle: Read, like and support your favourite creators.
       text: We are mostly active on the [HIVE](https://hiveonboard.com?ref=thatvirtualguy) blockchain. **NOTE:** we earn 3% of your HIVE rewards. You can change that at any time.
 ---

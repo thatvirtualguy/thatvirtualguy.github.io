@@ -28,7 +28,7 @@ organizations:
     url: https://hiveonboard.com?ref=thatvirtualguy
 
 # Short bio (displayed in user profile at end of posts)
-bio: Giving tips to virtual assistants, reviewing websites and AI tools and talking about web3 technologies.
+bio: Giving tips to virtual assistants & freelancers, reviewing websites and AI tools and talking about Web3 technologies.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -50,7 +50,8 @@ profiles:
 highlight_name: true
 
 # Author's website URL
-website: "https://thatvirtualguy.website/"
+website: "https://thatvirtualguy.website"
 ---
 
 Passionate web developer, home office agent and a stay at home hubby living in an interabled marriage.
+Helping you to find the best places to work online, reviewing AI tools and talking about Web3 technologies.

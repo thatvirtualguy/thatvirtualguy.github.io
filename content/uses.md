@@ -1,6 +1,6 @@
 ---
 title: Uses
-date: 2023-10-24
+date: 2025-10-17
 hide_date: true
 reading_time: false
 ---
@@ -13,14 +13,7 @@ I often get asked about what software or hardware I use, so this page will serve
 
 ## Website
 
-- [Hugo Blox](https://hugoblox.com) (see the tutorial on [Getting Started](/blog/get-started/))
-
-## Editor + Terminal
-
-- [Visual Studio Code](https://code.visualstudio.com/) is my current editor
-- Chrome is my main browser
-- iTerm2 is my terminal
-
-## Desktop Apps
-
-- Better Touch Tool for window management and custom keyboard shortcuts
+- [Namecheap](https://www.namecheap.com/) as my domain name provider.
+- [Github Pages](https://pages.github.com/) as the host for my websites.
+- [Hugo](https://gohugo.io/) statc site generator with the [Hugo Blox Builder](https://hugoblox.com) theme.
+- Visual Studio Code with no CMS system and written in Markdown.
