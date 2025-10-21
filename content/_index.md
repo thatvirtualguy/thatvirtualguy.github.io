@@ -3,6 +3,8 @@ title: 'Home'
 date: 2023-10-24
 type: landing
 sections:
+
+  # Author
   - block: resume-biography
     content:
       # The user's folder name in content/authors/
@@ -16,6 +18,8 @@ sections:
       avatar:
         size: medium  # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: rounded # Options: circle (default), square, rounded
+
+  # Blog posts
   - block: collection
     content:
       filters:
@@ -27,6 +31,6 @@ sections:
   - block: markdown
     content:
       title: Want to support me?
-      subtitle: Read, like and support your favourite creators.
-      text: We are mostly active on the [HIVE](https://hiveonboard.com?ref=thatvirtualguy) blockchain. **NOTE:** we earn 3% of your HIVE rewards. You can change that at any time.
+      subtitle: Support your favourite creators while earning crypto.
+      text: We are mostly active on the [HIVE](https://hiveonboard.com?ref=thatvirtualguy) blockchain. **NOTE:** we earn 3% commission of your HIVE rewards. You can change that at any time.
 ---

@@ -17,3 +17,8 @@ I often get asked about what software or hardware I use, so this page will serve
 - [Github Pages](https://pages.github.com/) as the host for my websites.
 - [Hugo](https://gohugo.io/) statc site generator with the [Hugo Blox Builder](https://hugoblox.com) theme.
 - Visual Studio Code with no CMS system and written in Markdown.
+
+## Content planning
+
+- A simple notebook
+- 
